@@ -53,4 +53,4 @@
      result[i] = array[i] * array[j];
  }
  Console.WriteLine($"result: [ {string.Join("; ", result)} ]"); 
-
+//  example
