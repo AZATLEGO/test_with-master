@@ -1,0 +1,15 @@
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2014_SEM_2_TASK\bin\Debug\net6.0\29-01-2014_SEM_2_TASK.exe
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2014_SEM_2_TASK\bin\Debug\net6.0\29-01-2014_SEM_2_TASK.deps.json
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2014_SEM_2_TASK\bin\Debug\net6.0\29-01-2014_SEM_2_TASK.runtimeconfig.json
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2014_SEM_2_TASK\bin\Debug\net6.0\29-01-2014_SEM_2_TASK.dll
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2014_SEM_2_TASK\bin\Debug\net6.0\29-01-2014_SEM_2_TASK.pdb
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2014_SEM_2_TASK\obj\Debug\net6.0\29-01-2014_SEM_2_TASK.csproj.AssemblyReference.cache
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2014_SEM_2_TASK\obj\Debug\net6.0\29-01-2014_SEM_2_TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2014_SEM_2_TASK\obj\Debug\net6.0\29-01-2014_SEM_2_TASK.AssemblyInfoInputs.cache
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2014_SEM_2_TASK\obj\Debug\net6.0\29-01-2014_SEM_2_TASK.AssemblyInfo.cs
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2014_SEM_2_TASK\obj\Debug\net6.0\29-01-2014_SEM_2_TASK.csproj.CoreCompileInputs.cache
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2014_SEM_2_TASK\obj\Debug\net6.0\29-01-2014_SEM_2_TASK.dll
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2014_SEM_2_TASK\obj\Debug\net6.0\refint\29-01-2014_SEM_2_TASK.dll
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2014_SEM_2_TASK\obj\Debug\net6.0\29-01-2014_SEM_2_TASK.pdb
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2014_SEM_2_TASK\obj\Debug\net6.0\29-01-2014_SEM_2_TASK.genruntimeconfig.cache
+C:\AZAT\OneDrive\Desktop\C_SHARP2\29-01-2014_SEM_2_TASK\obj\Debug\net6.0\ref\29-01-2014_SEM_2_TASK.dll
