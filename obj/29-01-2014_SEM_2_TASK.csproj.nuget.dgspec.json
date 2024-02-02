@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\AZAT\\OneDrive\\Desktop\\C_SHARP2\\29-01-2014_SEM_2_TASK\\29-01-2014_SEM_2_TASK.csproj": {}
+  },
+  "projects": {
+    "C:\\AZAT\\OneDrive\\Desktop\\C_SHARP2\\29-01-2014_SEM_2_TASK\\29-01-2014_SEM_2_TASK.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\AZAT\\OneDrive\\Desktop\\C_SHARP2\\29-01-2014_SEM_2_TASK\\29-01-2014_SEM_2_TASK.csproj",
+        "projectName": "29-01-2014_SEM_2_TASK",
+        "projectPath": "C:\\AZAT\\OneDrive\\Desktop\\C_SHARP2\\29-01-2014_SEM_2_TASK\\29-01-2014_SEM_2_TASK.csproj",
+        "packagesPath": "C:\\Users\\syrtb\\.nuget\\packages\\",
+        "outputPath": "C:\\AZAT\\OneDrive\\Desktop\\C_SHARP2\\29-01-2014_SEM_2_TASK\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\syrtb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.418\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
